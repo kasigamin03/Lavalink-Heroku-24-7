@@ -11,7 +11,7 @@ if (process.env.PORT) {
 if (process.env.PASS) {
     application = application.replace('youshallnotpass', process.env.PASS)
 }
-setInterval(() => fetch('process.env.URL'), 5 * 60 * 1000);
+setInterval(() => fetch('https://lavabunny.herokuapp.com/'), 5 * 60 * 1000);
 
 fs.writeFileSync('./application.yml', application)
 
