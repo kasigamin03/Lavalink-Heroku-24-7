@@ -10,7 +10,7 @@ Quer apoiar o projeto ? faça uma doação por [aqui](https://picpay.me/brunoh_d
 A instalação automática irá reiniciar seu servidor, portanto tenha consciência de que o repositorio está aberto ao publico para uso livre, não assumirei nenhuma responsabilidade por danos ocorridos, para aplicativos ja usado na mesma instancia!!
 
 ### Instalação com um clique: - Continue lendo abaixo !!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HellpMe/Lavalink-Heroku-24-7/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasigamin03/Lavalink-Heroku-24-7)
 
 - Buildpacks devem ser adicionados automaticamente, você pode alterar a variável `PASS` durante a instalação para alterar a senha do servidor.
 
