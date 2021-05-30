@@ -25,7 +25,7 @@ Atenção, entenda que seu servidor lavalink está **sem memória**. Se você es
 - URL dentro do arquivo `lavalink.js` linha 15
 - Onde está `seu_nome_aqui` colocar seu usuario do github, para funcionar você deve fazer um fork desse repositorio!!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/seu_nome_aqui/Lavalink-Heroku-24-7/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasigamin03/Lavalink-Heroku-24-7)
 
 - Caso queira contribuir com o projeto envie uma pull request <3
 
