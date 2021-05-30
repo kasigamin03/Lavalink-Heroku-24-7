@@ -7,7 +7,7 @@ Quer apoiar o projeto ? faça uma doação por [aqui](https://picpay.me/brunoh_d
 
 ##### Atenção!
 
-A instalação automática irá reiniciar seu servidor, portanto tenha consciência de que o repositorio está aberto ao publico para uso livre, não assumirei nenhuma responsabilidade por danos ocorridos, para aplicativos ja usado na mesma instancia!!
+The automatic installation will restart your server, so be aware that the repository is open to the public for free use, I will not assume any responsibility for damages, for applications already used in the same instance !!
 
 ### Instalação com um clique: - Continue lendo abaixo !!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasigamin03/Lavalink-Heroku-24-7)
